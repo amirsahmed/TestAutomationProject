@@ -8,4 +8,5 @@ Kia
 Suzuki
 Buick
 Lada
+GMC
 Volvo
