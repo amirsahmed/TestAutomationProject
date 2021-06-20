@@ -1,12 +1,3 @@
-Lexus
-Chevy
-Nissan
-Lotus
-Mitsubishi
-Acura
-Kia
-Suzuki
-Buick
 Lada
 GMC
 Volvo
