@@ -1,5 +1,2 @@
 Toyota
-BMW
-Fiat
-Mercedes
-Dodge
+
