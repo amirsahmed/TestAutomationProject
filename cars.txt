@@ -5,3 +5,5 @@ Lotus
 Mitsubishi
 Acura
 Kia
+Suzuki
+
