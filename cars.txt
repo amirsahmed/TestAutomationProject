@@ -2,3 +2,5 @@ Lada
 GMC
 Volvo
 Jaguar
+Suburu
+
